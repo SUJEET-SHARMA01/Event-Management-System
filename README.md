@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management System
 
 A full-stack event management application with React frontend and Node.js/Express backend.
@@ -168,3 +169,6 @@ event-management-system/
 ## License
 
 ISC
+=======
+# Event-Management-System
+>>>>>>> 570f8111d3e274acd8700229c27f3e77b76d7379
